@@ -213,6 +213,30 @@
                     padding-bottom: 5px;
                   }
 
+/*section search section search section search section search*/
+.search {
+  padding-top: 13px;
+  padding-bottom: 12px;
+}
+.search__block {
+  height: 133px;
+  float: left;
+  border: 1px solid black;
+  border-radius: 18px;
+}
+.search__block--avto {
+  margin-left: 5px;
+  margin-right: 13px;
+  width: 413px;
+}
+.search__block--shins {
+  width: 191px;
+  margin-right: 10px;
+}
+.search__block--discs {
+  width: 200px;
+  width: 266px;
+}
 
 
 
