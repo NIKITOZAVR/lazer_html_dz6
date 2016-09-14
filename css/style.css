@@ -281,12 +281,16 @@
   margin-top: -3px;
 }
 .cat-list {
-  margin-left:49px;
+  margin-left:55px;
   margin-top: 1px;
 }
 .cat-list>li {
   list-style: circle;
   padding-bottom: 7px;
+}
+
+.rightbar-catlist ul li {
+  padding-left: 7px;
 }
 .cat-list li a {
   text-decoration: none;
@@ -295,6 +299,9 @@
   font-size: 13px;
   font-weight: 400;
   line-height: 15px;
+}
+.left-bar .cat-list li a {
+  margin-left: -8px;
 }
 
 .cat-list>li a:hover {
